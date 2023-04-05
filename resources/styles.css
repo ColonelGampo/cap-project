@@ -28,7 +28,7 @@ nav {
     background-color: lightgray;
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+
 }
 
 .banner img {
@@ -36,6 +36,6 @@ nav {
     padding: 32px 24px;
 }
 
-.banner h1 {
- 
+.banner a {
+    background-color: darkgray;
 }
