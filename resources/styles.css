@@ -1,4 +1,16 @@
 body {
     box-sizing: border-box;
+}
+
+
+/* Header Section */
+
+header {
+    display: flex;
     flex-wrap: wrap;
+}
+
+nav {
+    text-align: right;
+    flex-grow: 1;
 }
