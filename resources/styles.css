@@ -24,7 +24,18 @@ nav {
 
 /* Banner Section */
 
+.banner {
+    background-color: lightgray;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
 .banner img {
     width: 60%;
     padding: 32px 24px;
+}
+
+.banner h1 {
+ 
 }
