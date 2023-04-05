@@ -10,6 +10,14 @@ header {
     flex-wrap: wrap;
 }
 
+header p {
+    font-size: 32px;
+}
+
+logo {
+    padding-left: 24px;
+}
+
 nav {
     text-align: right;
     flex-grow: 1;
