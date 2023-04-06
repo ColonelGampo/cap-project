@@ -89,6 +89,7 @@ button {
 .o-links {
     width: 40%;
     display: flex;
+    flex-direction: column;
 }
 
 .orientation {
