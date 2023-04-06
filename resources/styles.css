@@ -38,12 +38,15 @@ nav {
 
 button {
     background-color: darkgray;
-
+    box-sizing: content-box;
+    width: 90%;
+    height: 10%;
 }
 
 ,text-start {
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
 }
