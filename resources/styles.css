@@ -76,4 +76,11 @@ button {
 
 .practice-imgq p {
     padding-left: 24px;
+    color: grey;
+    font-weight: light;
+}
+
+.author {
+    font-size: small;
+    font-weight: bold;
 }
