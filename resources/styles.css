@@ -55,10 +55,11 @@ button {
 
 .practice {
     display: flex;
+    width: 60%;
 }
 
 .practice img  {
-    width: 60%;
+   
     padding: 32px 24px;
 }
 
@@ -83,4 +84,9 @@ button {
 .author {
     font-size: small;
     font-weight: bold;
+}
+
+.o-links {
+    width: 40%;
+
 }
